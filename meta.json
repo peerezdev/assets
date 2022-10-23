@@ -1,0 +1,34 @@
+{
+    "name": "Test 1234",
+    "symbol": "TEST5",
+    "description": "Testing",
+    "seller_fee_basis_points": 500,
+    "image": "https://bafybeicszqoiqxlnpwxktacl3vygkvtqptnvojey7wnhwzgfukxemphxle.ipfs.nftstorage.link/YellowRobot_1.png",
+    "attributes": [
+        {
+            "trait_type": "Cuerpo",
+            "value": "JK7"
+        },
+        {
+            "trait_type": "Cabeza",
+            "value": "Naranja"
+        }
+    ],
+    "properties": {
+        "edition": 6016,
+        "files": [
+            {
+                "uri": "https://bafybeicszqoiqxlnpwxktacl3vygkvtqptnvojey7wnhwzgfukxemphxle.ipfs.nftstorage.link/YellowRobot_1.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "ABmQkJka6EJgh3dfCRLn8vi3QCnYuMieTQpZPRb1cesJ",
+                "verified": false,
+                "share": 100
+            }
+        ]
+    }
+}
