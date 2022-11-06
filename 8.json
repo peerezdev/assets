@@ -4,6 +4,10 @@
     "description": "Testing",
     "seller_fee_basis_points": 500,
     "image": "https://bafybeicszqoiqxlnpwxktacl3vygkvtqptnvojey7wnhwzgfukxemphxle.ipfs.nftstorage.link/YellowRobot_1.png",
+    "decimals": 3,
+    "supply": 9000000,
+    "tokenStandard": 2,
+    "type": "token_address"
     "properties": {
         "edition": 6016,
         "files": [
