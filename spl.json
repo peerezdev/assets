@@ -3,7 +3,7 @@
  "symbol":"V1PS",
  "description":"The currency of the V1PS",
  "image":"https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
- "attributes":[],
+ "icon":"https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
  "properties":{
   "files":[
    {
