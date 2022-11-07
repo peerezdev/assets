@@ -2,5 +2,25 @@
     "name": "V1PS Token",
     "symbol": "V1PS",
     "description": "The currency of the V1PS",
+    "seller_fee_basis_points": 0,
     "image": "https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
+    "external_url": "",
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
+                "type": "image/png"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
+                "type": "icon/png"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
+                "type": "logoURI/png"
+            }
+            {}
+        ]
+    }
 }
