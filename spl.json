@@ -6,7 +6,7 @@
     "icon": "https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
     "logoURI": "https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
     "properties": {
-        "category": image,
+        "category": "image",
         "files": [
             {
                 "uri": "https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
